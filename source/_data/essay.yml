@@ -65,9 +65,17 @@
 #      date: 2022/09/21
 #      link: https://www.bilibili.com/bangumi/play/ss39431?spm_id_from=333.337.0.0
 
+    - content: QQ音乐 VIP 付费音乐测试
+      date: 2025/10/3
+      aplayer:
+        server: tencent
+        id: "000DOpDe2GfLaq"
 
-
-
+    - content: 网易云音乐 VIP 付费音乐测试
+      date: 2025/10/3
+      aplayer:
+        server: netease
+        id: 233888
 
     - content: "终于退伍了，成为老兵一枚🫡差点晒成黑哥们 (图4枪是豆包p的)"
       date: 2025/9/28
@@ -95,10 +103,11 @@
         - https://img.afwlhx.top/i/2025/10/03/ssqy7c.webp
       from: 蔚蓝幻想
 
-    - content: "这里是蔚蓝幻想打印店"
+    - content: "这是里蔚蓝幻想打印，这是开店10天以来的收入情况："
       date: 2025/9/25
       image:
         - https://img.afwlhx.top/i/2025/10/03/ssquuq.webp
+      link: /2025/10/03/蔚蓝幻想打印店财报2025年9月/
       from: 蔚蓝幻想
 
     - content: "真的能补到吗"

@@ -30,13 +30,16 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://blog.anheyu.com/
+          link: https://www.afwlhx.top
+          icon: /img/favicon.ico
+        - name: 图床
+          link: https://img.afwlhx.top
+          icon: /img/favicon.ico
+        - name: 网盘
+          link: https://alist.afwlhx.top
           icon: /img/favicon.ico
     - title: 项目
       item:
-#        - name: 安知鱼图床
-#          link: https://image.anheyu.com/
-#          icon: https://image.anheyu.com/favicon.ico
         - name: 打印店
           link: https://print.afwlhx.top/
           icon: https://image.anheyu.com/favicon.ico
@@ -192,7 +195,7 @@ post_meta:
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
-    unread: false # true or false 文章未读功能
+    unread: true # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
@@ -449,8 +452,8 @@ footer:
 #        shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
         shields: https://img.shields.io/badge/Frame-Hexo-blue
         message: 博客框架为Hexo_v8.0.0 #徽标提示语
-      - link: https://www.aliyun.com/
-        shields: https://img.shields.io/badge/Serve-阿里云-ED742E
+      - link: https://www.aliyun.comr
+        shields: https://img.shields.io/badge/Server-阿里云-ED742E
         message: 本站由阿里云ECS服务器驱动
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
 #        shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
