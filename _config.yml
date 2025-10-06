@@ -162,3 +162,11 @@ envelope_comment:
     comments: true
     top_img: false
     type: envelope
+
+# 本地搜索配置
+search:
+  path: search.json
+  field: post # 搜索范围 post 覆盖所有文字内容
+  content: true # 是否包含文字具体内容
+#  template: ./search.xml
+  template:

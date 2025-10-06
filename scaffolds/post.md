@@ -3,6 +3,7 @@ title: {{ title }}
 date: {{ date }}
 updated: {{ date }}
 tags: []
-categories: 
+categories: []
 cover: 
+main_color: 
 ---

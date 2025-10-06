@@ -65,17 +65,25 @@
 #      date: 2022/09/21
 #      link: https://www.bilibili.com/bangumi/play/ss39431?spm_id_from=333.337.0.0
 
-    - content: QQ音乐 VIP 付费音乐测试
-      date: 2025/10/3
-      aplayer:
-        server: tencent
-        id: "000DOpDe2GfLaq"
+    - content: "刚想出去骑车，一看轮胎傻眼了🙄，内外胎都被老鼠咬穿了（老鼠看我不在家，直接给我拉坨大的）越想越气"
+      date: 2025/10/4
+      image:
+        - https://img.afwlhx.top/i/2025/10/04/o4d9q5.webp
+      video:
+        - https://alist.afwlhx.top/d/ydimg/blog/videos/essays/2025-10-4.mp4
+      from: 蔚蓝幻想
 
-    - content: 网易云音乐 VIP 付费音乐测试
-      date: 2025/10/3
-      aplayer:
-        server: netease
-        id: 233888
+#    - content: QQ音乐 VIP 付费音乐测试
+#      date: 2025/10/3
+#      aplayer:
+#        server: tencent
+#        id: "000DOpDe2GfLaq"
+#
+#    - content: 网易云音乐 VIP 付费音乐测试
+#      date: 2025/10/3
+#      aplayer:
+#        server: netease
+#        id: 233888
 
     - content: "终于退伍了，成为老兵一枚🫡差点晒成黑哥们 (图4枪是豆包p的)"
       date: 2025/9/28
