@@ -491,17 +491,17 @@ footer:
          icon: anzhiyu-icon-rss
     right:
        - title: Github
-         link: https://github.com/anzhiyu-c
+         link: https://github.com/afwlhx
          icon: anzhiyu-icon-github
        - title: Bilibili
-         link: https://space.bilibili.com/372204786
+         link: https://space.bilibili.com/346659371
          icon: anzhiyu-icon-bilibili
       # - title: 抖音
       #   link: https://v.douyin.com/DwCpMEy/
       #   icon: anzhiyu-icon-tiktok
-      # - title: CC
-      #   link: /copyright
-      #   icon: anzhiyu-icon-copyright-line
+       - title: CC
+         link: /copyright
+         icon: anzhiyu-icon-copyright-line
   list:
     enable: true
     randomFriends: 3
