@@ -30,7 +30,7 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://www.afwlhx.top
+          link: https://blog.afwlhx.top
           icon: /img/favicon.ico
         - name: 图床
           link: https://img.afwlhx.top
@@ -41,7 +41,7 @@ nav:
     - title: 项目
       item:
         - name: 打印店
-          link: https://print.afwlhx.top/
+          link: https://www.afwlhx.top/print-order
           icon: https://image.anheyu.com/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
